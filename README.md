@@ -13,5 +13,4 @@ The MNIST database is a large database of handwritten digits that is commonly us
 
 The below is the image of size 28x28.
 
-
-![mnist-sample](https://github.com/sahreen-haider/mnist--digit_recogniser/issues/1#issue-1012278888.png)
+![mnist-sample 47](https://user-images.githubusercontent.com/81517526/135478717-77344d9b-1b57-4285-9164-e51d775e00c9.png)
