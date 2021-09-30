@@ -12,3 +12,6 @@ try reducing the epochs (steps) to reduce computation and to save time.
 The MNIST database is a large database of handwritten digits that is commonly used for training various image processing systems.
 
 The below is the image of size 28x28.
+
+
+![mnist-sample](https://github.com/sahreen-haider/mnist--digit_recogniser/issues/1#issue-1012278888.png)
